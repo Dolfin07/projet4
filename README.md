@@ -1,5 +1,3 @@
-# GermainLudivine_4_07112020
-
 Projet 4 de la formation développeur Web d'Open Classrooms.
 
 Contenu :
